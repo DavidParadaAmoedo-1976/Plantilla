@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>6.5.2.Final</version>
+            <version>7.0.8.Final</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.32</version>
+            <version>1.18.42</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
